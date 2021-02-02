@@ -1,0 +1,10 @@
+2021-01-11 12:10:24.2181 INFO Returned student with id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2021-01-11 12:10:31.1199 ERROR Student with id 24fd81f8-d58a-4bcc-9f35-dc6cd5641907 hasn't been found
+2021-01-11 12:10:39.8974 INFO Returned all students from the db
+2021-01-11 12:10:52.4061 INFO Returned student with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2021-01-11 12:11:00.3588 INFO Returned student with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2021-01-11 22:39:07.2500 INFO Returned all students from the db
+2021-01-11 23:02:45.9559 INFO Returned all students from the db
+2021-01-11 23:14:02.2074 ERROR Something went wrong inside DeleteStudent Action: An error occurred while updating the entries. See the inner exception for details.
+2021-01-11 23:15:48.7163 ERROR Cannot delete student with id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906. It has related accounts. Delete those accounts first
+2021-01-11 23:16:10.0478 INFO Returned all students from the db

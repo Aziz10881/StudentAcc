@@ -1,0 +1,10 @@
+2021-01-10 18:41:00.5053 INFO Returned all students from the db
+2021-01-10 19:05:19.0176 INFO Returned a student with a specific Id
+2021-01-10 19:05:19.0945 INFO Returned student with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2021-01-10 19:05:36.8162 INFO Returned a student with a specific Id
+2021-01-10 19:05:36.8162 ERROR Student with id 261e1685-cf26-494c-b17c-3546e65f5621 hasn't been found
+2021-01-10 19:05:55.5746 INFO Returned a student with a specific Id
+2021-01-10 19:05:55.5764 INFO Returned student with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2021-01-10 19:15:49.9861 INFO Returned all students from the db
+2021-01-10 19:16:03.5251 INFO Returned student with id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2021-01-10 19:16:12.5848 INFO Returned student with id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
