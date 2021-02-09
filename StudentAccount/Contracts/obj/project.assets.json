@@ -655,11 +655,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\SA\\StudentAccount\\Contracts\\Contracts.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\StudentAcc\\StudentAccount\\Contracts\\Contracts.csproj",
       "projectName": "Contracts",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\SA\\StudentAccount\\Contracts\\Contracts.csproj",
+      "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\StudentAcc\\StudentAccount\\Contracts\\Contracts.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\SA\\StudentAccount\\Contracts\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\StudentAcc\\StudentAccount\\Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -675,8 +675,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Admin\\source\\repos\\SA\\StudentAccount\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\Admin\\source\\repos\\SA\\StudentAccount\\Entities\\Entities.csproj"
+            "C:\\Users\\Admin\\Documents\\GitHub\\StudentAcc\\StudentAccount\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\StudentAcc\\StudentAccount\\Entities\\Entities.csproj"
             }
           }
         }

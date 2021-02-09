@@ -16,6 +16,7 @@ namespace Repository
 
         }
 
+        //CarExhibition class methods must be written in repository
         public IEnumerable<Student> GetAllStudents()
         {
             return FindAll().OrderBy(st => st.Name).ToList();

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eiEn1e9EX9HFHipEnnCfjlzhS2A7rooaFmbplfs2JFkp8ePQNRg0NiZZLCKmOwybKDPWWu7d8oaGIOQ0wZXVXg==",
+  "dgSpecHash": "bMDh8wP1HcvLIY4WSTKyHOrjSVofQeD0COd/pRpW3jE/NxctU+R8VUJ7MwaQY1fdqxEt8HpPboMX+lk1RRwxhg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\SA\\StudentAccount\\LoggerService\\LoggerService.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\GitHub\\StudentAcc\\StudentAccount\\LoggerService\\LoggerService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

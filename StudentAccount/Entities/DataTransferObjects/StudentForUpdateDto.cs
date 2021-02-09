@@ -14,8 +14,9 @@ namespace Entities.DataTransferObjects
         [Required(ErrorMessage = "Date of birth is required")]
         public DateTime DateOfBirth { get; set; }
 
+        
         [Required(ErrorMessage = "Faculty is required")]
-        [StringLength(100, ErrorMessage = "Address cannot be loner then 100 characters")]
+        [StringLength(100, ErrorMessage = "Faculty cannot be loner then 100 characters")]
         public string Faculty { get; set; }
     }
 }
