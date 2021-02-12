@@ -12,3 +12,17 @@ C:\Users\Admin\Desktop\Code-Maze\ASP.NET Core\Basic ASP.NET Core Web API\Practic
 C:\Users\Admin\Desktop\Code-Maze\ASP.NET Core\Basic ASP.NET Core Web API\PracticeProject\StudentAccount\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb
 C:\Users\Admin\Desktop\Code-Maze\ASP.NET Core\Basic ASP.NET Core Web API\PracticeProject\StudentAccount\LoggerService\bin\Debug\netcoreapp3.1\Entities.dll
 C:\Users\Admin\Desktop\Code-Maze\ASP.NET Core\Basic ASP.NET Core Web API\PracticeProject\StudentAccount\LoggerService\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Admin\Documents\GitHub\StudentAcc\StudentAccount\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.deps.json
+C:\Users\Admin\Documents\GitHub\StudentAcc\StudentAccount\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.dll
+C:\Users\Admin\Documents\GitHub\StudentAcc\StudentAccount\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.pdb
+C:\Users\Admin\Documents\GitHub\StudentAcc\StudentAccount\LoggerService\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\Admin\Documents\GitHub\StudentAcc\StudentAccount\LoggerService\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Admin\Documents\GitHub\StudentAcc\StudentAccount\LoggerService\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\Admin\Documents\GitHub\StudentAcc\StudentAccount\LoggerService\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Admin\Documents\GitHub\StudentAcc\StudentAccount\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\StudentAcc\StudentAccount\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\StudentAcc\StudentAccount\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\StudentAcc\StudentAccount\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\StudentAcc\StudentAccount\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CopyComplete
+C:\Users\Admin\Documents\GitHub\StudentAcc\StudentAccount\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
+C:\Users\Admin\Documents\GitHub\StudentAcc\StudentAccount\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb
